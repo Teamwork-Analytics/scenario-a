@@ -1,14 +1,14 @@
-# Teamwork Dashboard GitHub Page (dashboard-ghpage)
+# Teamwork Dashboard GitHub Page (scenario-a)
 
-Deployed GitHub Page for teamwork dashboard at https://teamwork-analytics.github.io/dashboard-ghpage/
+Deployed GitHub Page for teamwork dashboard at https://teamwork-analytics.github.io/scenario-a/
 
 ## Overview
 
-This repository provides a simplified teamwork dashboard hosted on GitHub Pages. The deployed Page demonstrates some dynamic interactions of the dashboard using the data from Session 350 (Peninsula Campus 2023). It does not require any backend server connection to be hosted, and is merely for showcasing teamwork analysis dashboard and its visualisations.
+This repository provides a simplified teamwork dashboard hosted on GitHub Pages. The deployed Page demonstrates some dynamic interactions of the dashboard using the data from Session 416 (Peninsula Campus 2024). It does not require any backend server connection to be hosted, and is merely for showcasing teamwork analysis dashboard and its visualisations.
 
 ### What can the deployed dashboard do?
 
-On the [application](https://teamwork-analytics.github.io/dashboard-ghpage/), users can:
+On the [application](https://teamwork-analytics.github.io/scenario-a/), users can:
 
 1. **Phases Selection:** Click phases (All, Scenario started, Handover ends, etc.) to modify the timeline range.
 2. **Timeline Control:** Undo and redo timeline changes for easy navigation.
@@ -22,7 +22,7 @@ Some features that are not supported in this simplified version are:
 
 1. **Precise Timeline Dragging:** Sliding on the timeline for granular time range selection.
 2. **Simulation Video:** Display video playback of the simulation.
-3. **Other-Session Data:** Viewing data from sessions other than Session 350.
+3. **Other-Session Data:** Viewing data from sessions other than Session 416.
 4. **Tag-Based Filtering:** Clicking timeline labels (on the right of the timeline) for 10-second visualisation snapshots during the label tagging time.
 5. **Projector:** Select visualisations and project to another screen for debriefing.
 

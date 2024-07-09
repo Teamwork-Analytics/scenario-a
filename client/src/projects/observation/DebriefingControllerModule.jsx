@@ -6,9 +6,9 @@ import DebriefingControllerView from "./DebriefingControllerView";
 const DebriefingControllerModule = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
-      <TimelineProvider simulationId={350}>
-        <DebriefingProvider simulationId={350}>
-          <HiveProvider simulationId={350}>
+      <TimelineProvider simulationId={416}>
+        <DebriefingProvider simulationId={416}>
+          <HiveProvider simulationId={416}>
             <DebriefingControllerView />
           </HiveProvider>
         </DebriefingProvider>
