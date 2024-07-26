@@ -3193,7 +3193,8 @@ const getTeamworkBarchart = async (body) => {
 
   // Hard coded data
   const allResponse = `{
-    "data": [{"label":["Working together","on tasks for Ruth"],"value":10.064430126638527},{"label":["Working individually","on tasks for Ruth"],"value":27.171739613419238},{"label":["Working together","on other tasks"],"value":6.087536103088204},{"label":["Working individually","on other tasks"],"value":13.263719173516996},{"label":["Moving around","the beds"],"value":43.41257498333704}]
+    "data": [{"label":["Working together","on tasks for Ruth"],"value":12.078830260648441},{"label":["Working individually","on tasks for Ruth"],"value":25.874125874125873},{"label":["Working together","on other tasks"],"value":7.946598855689764},{"label":["Working individually","on other tasks"],"value":13.943632125450305},{"label":["Moving around","the beds"],"value":40.15681288408561}]
+
 ,
     "status": 200,
     "statusText": "OK",
@@ -3231,7 +3232,8 @@ const getTeamworkBarchart = async (body) => {
     "request": {}
 }`;
   const scnStartedResponse = `{
-    "data":[{"label":["Working together","on tasks for Ruth"],"value":0.7204610951008646},{"label":["Working individually","on tasks for Ruth"],"value":3.4582132564841492},{"label":["Working together","on other tasks"],"value":19.884726224783865},{"label":["Working individually","on other tasks"],"value":25.50432276657061},{"label":["Moving around","the beds"],"value":50.43227665706053}]
+    "data":[{"label":["Working together","on tasks for Ruth"],"value":0.7947019867549668},{"label":["Working individually","on tasks for Ruth"],"value":3.841059602649007},{"label":["Working together","on other tasks"],"value":26.22516556291391},{"label":["Working individually","on other tasks"],"value":24.37086092715232},{"label":["Moving around","the beds"],"value":44.7682119205298}]
+
 ,
     "status": 200,
     "statusText": "OK",
@@ -3269,7 +3271,8 @@ const getTeamworkBarchart = async (body) => {
     "request": {}
 }`;
   const handoverResponse = `{
-    "data": [{"label":["Working together","on tasks for Ruth"],"value":8.65203761755486},{"label":["Working individually","on tasks for Ruth"],"value":19.49843260188088},{"label":["Working together","on other tasks"],"value":0.0},{"label":["Working individually","on other tasks"],"value":13.667711598746083},{"label":["Moving around","the beds"],"value":58.18181818181819}],
+    "data": [{"label":["Working together","on tasks for Ruth"],"value":11.589805825242717},{"label":["Working individually","on tasks for Ruth"],"value":19.296116504854368},{"label":["Working together","on other tasks"],"value":0.0},{"label":["Working individually","on other tasks"],"value":14.623786407766989},{"label":["Moving around","the beds"],"value":54.49029126213591}]
+,
     "status": 200,
     "statusText": "OK",
     "headers": {
@@ -3306,7 +3309,8 @@ const getTeamworkBarchart = async (body) => {
     "request": {}
 }`;
   const secondaryResponse = `{
-    "data": [{"label":["Working together","on tasks for Ruth"],"value":21.201413427561832},{"label":["Working individually","on tasks for Ruth"],"value":44.69964664310953},{"label":["Working together","on other tasks"],"value":19.08127208480565},{"label":["Working individually","on other tasks"],"value":3.8869257950530027},{"label":["Moving around","the beds"],"value":11.130742049469964}]
+    "data": [{"label":["Working together","on tasks for Ruth"],"value":21.51260504201681},{"label":["Working individually","on tasks for Ruth"],"value":42.016806722689076},{"label":["Working together","on other tasks"],"value":21.680672268907568},{"label":["Working individually","on other tasks"],"value":5.210084033613445},{"label":["Moving around","the beds"],"value":9.57983193277311}]
+
 ,
     "status": 200,
     "statusText": "OK",
@@ -3344,7 +3348,8 @@ const getTeamworkBarchart = async (body) => {
     "request": {}
 }`;
   const doctorResponse = `{
-    "data":[{"label":["Working together","on tasks for Ruth"],"value":11.912225705329154},{"label":["Working individually","on tasks for Ruth"],"value":39.811912225705335},{"label":["Working together","on other tasks"],"value":1.755485893416928},{"label":["Working individually","on other tasks"],"value":11.285266457680251},{"label":["Moving around","the beds"],"value":35.23510971786834}],
+    "data":[{"label":["Working together","on tasks for Ruth"],"value":14.67065868263473},{"label":["Working individually","on tasks for Ruth"],"value":36.22754491017964},{"label":["Working together","on other tasks"],"value":2.8742514970059876},{"label":["Working individually","on other tasks"],"value":12.095808383233532},{"label":["Moving around","the beds"],"value":34.1317365269461}]
+,
     "status": 200,
     "statusText": "OK",
     "headers": {
